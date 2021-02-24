@@ -1,8 +1,9 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: main
 media_folder: public/img
 public_folder: img
+site_url: https://sleepy-colden-d978c3.netlify.app
 collections:
   - name: "pages"
     label: "Pages"
